@@ -31,7 +31,7 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("GRUP", url="https://t.me/VibeRomanesc"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
             ],
             [
